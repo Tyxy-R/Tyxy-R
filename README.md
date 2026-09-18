@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Tyxy-R - LLM Agents, Long-Term Memory and GraphRAG" width="100%" />
+  <img src="./assets/profile-banner-minimal.png" alt="Minimal abstract memory and GraphRAG banner" width="100%" />
 </p>
 
 <p align="center">
