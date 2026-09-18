@@ -81,6 +81,6 @@ I am currently exploring memory evaluation, personalized retrieval, context engi
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tyxy-R/Tyxy-R/output/github-contribution-grid-snake-dark.svg?v=20260918-2" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tyxy-R/Tyxy-R/output/github-contribution-grid-snake.svg?v=20260918-2" />
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Tyxy-R/Tyxy-R/output/github-contribution-grid-snake.svg?v=20260918-2" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Tyxy-R/Tyxy-R/output/github-contribution-grid-snake.svg?v=20260918-2" width="100%" />
   </picture>
 </p>
