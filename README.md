@@ -75,3 +75,12 @@ M.S. student in Automation at Shanghai Jiao Tong University, Class of 2029. I fo
 ## Current Interests
 
 I am currently exploring memory evaluation, personalized retrieval, context engineering, and reliable orchestration for production agent systems.
+## Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tyxy-R/Tyxy-R/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tyxy-R/Tyxy-R/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Tyxy-R/Tyxy-R/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
